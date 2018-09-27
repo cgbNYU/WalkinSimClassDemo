@@ -11,6 +11,8 @@ public class NewScript : MonoBehaviour {
 		int i = 3;
 		i++;
 		Debug.Log(i);
+
+		Debug.Log("whoops");
 	}
 	
 	// Update is called once per frame
